@@ -21,6 +21,14 @@ h2 {
     color: #2c2c2c;
 }
 
+p {
+    font-family: 'Raleway';
+    font-size: 140%;
+    font-weight: 300;
+    line-height: 100%;
+    color: #2c2c2c;
+    text-align: justify;
+}
 
 /*
 h2 {
