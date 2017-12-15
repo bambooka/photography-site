@@ -95,8 +95,17 @@ nav ul {
 }
 
 nav ul li {
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway';
     font-size: 120%;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
 }
 /*
 h2 {
