@@ -88,6 +88,11 @@ nav {
     padding: 5%;
     height: 50px;
 }
+
+nav ul {
+    float: left;
+    list-style: none;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
