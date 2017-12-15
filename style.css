@@ -107,6 +107,18 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
+
+nav ul, nav:active ul {
+    padding: 8px 0;
+    width: 20%;
+    z-index: 1000;
+}
+
+nav li {
+    width: 100%;
+    padding: 8px 0 10px 7px;
+    margin: 0;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
