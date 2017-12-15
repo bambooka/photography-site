@@ -93,6 +93,11 @@ nav ul {
     float: left;
     list-style: none;
 }
+
+nav ul li {
+    font-family: 'Raleway' sans-serif;
+    font-size: 120%;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
