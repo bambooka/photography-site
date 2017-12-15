@@ -72,6 +72,13 @@ h1 {
 .content p {
     color: #fff;
 }
+
+.inner {
+    max-width: 600px;
+    margin: auto;
+    font-size: 170%;
+    line-height: 1.6;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
