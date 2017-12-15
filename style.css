@@ -124,6 +124,12 @@ nav:hover ul {
     display: block;
     position: absolute;
 }
+
+#menu-icon {
+    width: 30px;
+    height: 26px;
+    background: url(img/nav-icon.png) center;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
