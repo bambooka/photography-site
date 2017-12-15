@@ -119,6 +119,11 @@ nav li {
     padding: 8px 0 10px 7px;
     margin: 0;
 }
+
+nav:hover ul {
+    display: block;
+    position: absolute;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
