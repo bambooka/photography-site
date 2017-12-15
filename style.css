@@ -80,6 +80,14 @@ h1 {
     line-height: 1.6;
     padding: 10px;
 }
+
+/* NAVIGATION */
+
+nav {
+    float: left;
+    padding: 5%;
+    height: 50px;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
