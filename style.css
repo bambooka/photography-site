@@ -59,6 +59,16 @@ img {
     margin: auto;
 }
 
+h1 {
+    font-family: 'Playfair' serif;
+    color: #fff;
+    text-align: center;
+    font-size: 300%;
+    font-weight: 700;
+    padding: 2%;
+    text-shadow: 0px 0px 250px #000;
+}
+
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
