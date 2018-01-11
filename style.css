@@ -153,6 +153,10 @@ nav:hover ul {
     padding: 2%;
     float: left;
 }
+
+.one-third-port img:hover {
+    opacity: .6;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
