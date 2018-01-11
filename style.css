@@ -134,6 +134,14 @@ nav:hover ul {
     margin: 50px 0 0 50px;
 }
 
+/* END NAV */
+
+.left-col {
+    width: 60%;
+    float: left;
+    margin: 4% 0 4% 4%;
+}
+
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
