@@ -199,6 +199,10 @@ nav:hover ul {
     margin: 1% 5% 7% 4%;
     color: #2c2c2c;
 }
+
+.social i:hover {
+    color: #606060;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
