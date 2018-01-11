@@ -162,6 +162,10 @@ nav:hover ul {
     text-align: center;
     letter-spacing: 5px;
 }
+
+.claerfix {
+    clear: both;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
