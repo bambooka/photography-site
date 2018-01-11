@@ -147,6 +147,12 @@ nav:hover ul {
     float: left;
     margin: 4%;
 }
+
+.one-third-port {
+    width: 29.33333333%;
+    padding: 2%;
+    float: left;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
