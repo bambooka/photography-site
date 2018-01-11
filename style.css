@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway'); /*--- Nav Font --*/
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700|Raleway'); /*--- Heading Font --*/
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+/*--- Nav Font --*/
 
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700|Raleway');
+/*--- Heading Font --*/
 
-
-
-
-html, body {
-	margin: 0;
-	padding: 0;
-	height: 100%;
-	width: 100%;
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
 }
 
 h2 {
     font-family: 'Playfair Display', serif;
     font-size: 200%;
-    font-weight: 700; 
+    font-weight: 700;
     text-align: center;
     text-decoration: underline;
     color: #2c2c2c;
@@ -108,7 +108,8 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-nav ul, nav:active ul {
+nav ul,
+nav:active ul {
     padding: 8px 0;
     width: 20%;
     z-index: 1000;
@@ -129,7 +130,10 @@ nav:hover ul {
     width: 30px;
     height: 26px;
     background: url(img/nav-icon.png) center;
+    display: inline-block;
+    margin: 50px 0 0 50px;
 }
+
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
@@ -192,6 +196,7 @@ h1 {
 	padding: 10px;
 }
 /*--- Start Nav --*/
+
 /*
 nav {
 	float: left;
@@ -238,6 +243,7 @@ nav:hover ul {
 	margin: 50px 0 0 50px;
 }
 /*---End Nav --*/
+
 /*
 .left-col {
 	width: 60%;
