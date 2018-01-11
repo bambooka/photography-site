@@ -157,6 +157,11 @@ nav:hover ul {
 .one-third-port img:hover {
     opacity: .6;
 }
+
+.contact p {
+    text-align: center;
+    letter-spacing: 5px;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
