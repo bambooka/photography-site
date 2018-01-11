@@ -193,6 +193,12 @@ nav:hover ul {
 .social li {
     display: inline;
 }
+
+.social i {
+    font-size: 270%;
+    margin: 1% 5% 7% 4%;
+    color: #2c2c2c;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
