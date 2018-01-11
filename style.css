@@ -163,7 +163,11 @@ nav:hover ul {
     letter-spacing: 5px;
 }
 
-.claerfix {
+.break {
+    display: none;
+}
+
+.clearfix {
     clear: both;
     height: 3%;
 }
@@ -171,6 +175,7 @@ nav:hover ul {
 .contact a {
     color: #2c2c2c;
 }
+
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
