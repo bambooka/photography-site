@@ -176,6 +176,13 @@ nav:hover ul {
     color: #2c2c2c;
 }
 
+.parallax {
+    background: url("img/for_parallax.jpg") repeat fixed 100%;
+}
+
+.parallax-inner {
+    padding-top: 17%;
+}
 /*
 h2 {
 	font-family: 'Playfair Display', serif;
