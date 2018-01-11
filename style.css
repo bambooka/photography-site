@@ -178,6 +178,7 @@ nav:hover ul {
 
 .parallax {
     background: url("img/for_parallax.jpg") repeat fixed 100%;
+    opacity: 0.5;
 }
 
 .parallax-inner {
