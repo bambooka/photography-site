@@ -108,8 +108,7 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-nav ul,
-nav:active ul {
+nav ul, nav:active ul {
     padding: 8px 0;
     width: 20%;
     z-index: 1000;
